@@ -1,14 +1,15 @@
 # ExplorerSemLimites
 
 ## Tecnologias e desafios
-> HTML -
-> CSS
->> @media -
->> responsive layout -
->> variable
+> HTML
 
-+ Mobile First
+> CSS
++ @media
++ responsive layout
++ variable
+
+### Mobile First
 
 @saulocatunda
 
-[Link do site]()
+[Link do site](https://saulocatunda.github.io/explorerSemLimites/)
